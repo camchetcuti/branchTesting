@@ -1,1 +1,5 @@
 hello world from this branch
+git branching commands:
+git branch - lists the current branches
+git switch - switches the current branch
+git merge - merge branches together
